@@ -7,7 +7,6 @@ class App extends Component {
     super()
     this.state = { name: '' }
   }
-
   render() {
     return (
       <div className="main">
